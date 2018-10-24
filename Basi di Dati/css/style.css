@@ -1,0 +1,123 @@
+.op {
+    width: 400px;
+    height: 35px;
+    font-size: 18px;
+    font: italic;
+}
+
+.rad {
+	padding-top:6px;
+	width:100px;
+
+}
+
+.tit {
+	font-size:27px;
+}
+#V {
+	display:none;
+}
+
+#I {
+	display:none;
+}
+
+#M {
+	display:none;
+}
+
+#tmarv {
+	display:none;
+}
+
+#tcamv {
+	display:none;
+}
+
+#tsquv {
+	display:none;
+}
+
+#talli {
+	display:none;
+}
+
+#tgioi {
+	display:none;
+}
+
+#tevei {
+	display:none;
+}
+
+#tpari{
+	display:none;
+}
+
+#tallm{
+	display:none;
+}
+
+#tinfm{
+	display:none;
+}
+
+
+#Vb{
+	display:none;
+}
+
+#Ib{
+	display:none;
+}
+
+#Mb{
+	display:none;
+}
+
+#tmarvb{
+	display:none;
+}
+
+#tcamvb{
+	display:none;
+}
+
+#tsquvb{
+	display:none;
+}
+
+#tallib{
+	display:none;
+}
+
+#tgioib{
+	display:none;
+}
+
+#teveib{
+	display:none;
+}
+
+#tparib{
+	display:none;
+}
+
+#tallmb{
+	display:none;
+}
+
+#tinfmb{
+	display:none;
+}
+
+.tb {
+	position:relative;
+	width:90%;
+	margin-top:25px;
+	left:10%;
+
+}
+
+
+
